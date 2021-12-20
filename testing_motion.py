@@ -1,16 +1,11 @@
-# Python program to implement
-# Webcam Motion Detector
- 
-# importing OpenCV, time and Pandas library
+
 import cv2, time, pandas
-# importing datetime class from datetime library
 from datetime import datetime
  
 
 
 
 def start():
-# Assigning our static_back to None
     static_back = None
     
     # List when any moving object appear
