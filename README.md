@@ -45,7 +45,7 @@ The other file will use multiple camera windows to track movements based on time
 is recorded when movement is detected.
 ```
 ```
-The final file translator.py primarily focuses on image detection and determining readable text.
+The final file translator.py primarily focuses on image detection and determining readable text from multiple languages.
 ```
 
 ## What can they be used for??
