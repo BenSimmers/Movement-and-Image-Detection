@@ -30,8 +30,6 @@ from PIL import ImageTk, Image #will need pip install
 from tkinter import filedialog
 from pytesseract import pytesseract #will need pip install
 from googletrans import Translator #will need pip install
-
-
 ```
 
 ## What are These??
@@ -45,6 +43,9 @@ whatever is moving in camera view.
 ```
 The other file will use multiple camera windows to track movements based on timestamps. Each timestamp
 is recorded when movement is detected.
+```
+```
+The final file translator.py primarily focuses on image detection and determining readable text.
 ```
 
 ## What can they be used for??
