@@ -39,4 +39,4 @@ is recorded when movement is detected.
 
 ## What can they be used for??
 Not much at the moment</br>
-However, in theory if there is enough of the correct analysis is made towards the data, an assessment could be made
+However, in theory if there is enough of the correct analysis is made towards the data, an assessment could be made focusing on movement of people and objects.
