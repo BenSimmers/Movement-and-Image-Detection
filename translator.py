@@ -21,7 +21,7 @@ def open():
 
 
     
-    root.filename = filedialog.askopenfilename(initialdir= "C:/Users/bej13/OneDrive - Queensland University of Technology/2021", filetypes=(("png files", "*.png"),("jpg files", "*.jpg"),("all files", "*.*")))
+    root.filename = filedialog.askopenfilename(initialdir= "Your file path here", filetypes=(("png files", "*.png"),("jpg files", "*.jpg"),("all files", "*.*")))
     path = root.filename
     my_label = Label(root, text="current image directory\n" + root.filename).pack()
     image_temp = ImageTk.PhotoImage(Image.open(root.filename))
